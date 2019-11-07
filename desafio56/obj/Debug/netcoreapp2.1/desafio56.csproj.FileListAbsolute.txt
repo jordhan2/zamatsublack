@@ -1,0 +1,11 @@
+C:\Users\jorel\source\repos\desafio56\desafio56\bin\Debug\netcoreapp2.1\desafio56.deps.json
+C:\Users\jorel\source\repos\desafio56\desafio56\bin\Debug\netcoreapp2.1\desafio56.runtimeconfig.json
+C:\Users\jorel\source\repos\desafio56\desafio56\bin\Debug\netcoreapp2.1\desafio56.runtimeconfig.dev.json
+C:\Users\jorel\source\repos\desafio56\desafio56\bin\Debug\netcoreapp2.1\desafio56.dll
+C:\Users\jorel\source\repos\desafio56\desafio56\bin\Debug\netcoreapp2.1\desafio56.pdb
+C:\Users\jorel\source\repos\desafio56\desafio56\obj\Debug\netcoreapp2.1\desafio56.csprojAssemblyReference.cache
+C:\Users\jorel\source\repos\desafio56\desafio56\obj\Debug\netcoreapp2.1\desafio56.csproj.CoreCompileInputs.cache
+C:\Users\jorel\source\repos\desafio56\desafio56\obj\Debug\netcoreapp2.1\desafio56.AssemblyInfoInputs.cache
+C:\Users\jorel\source\repos\desafio56\desafio56\obj\Debug\netcoreapp2.1\desafio56.AssemblyInfo.cs
+C:\Users\jorel\source\repos\desafio56\desafio56\obj\Debug\netcoreapp2.1\desafio56.dll
+C:\Users\jorel\source\repos\desafio56\desafio56\obj\Debug\netcoreapp2.1\desafio56.pdb
